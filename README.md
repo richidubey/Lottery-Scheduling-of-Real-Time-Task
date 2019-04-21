@@ -79,8 +79,14 @@ T5 - (3,8,2,8)
 
 3. **Assumptions made**:
 
-> Preemptions allowed.
-
+> Based on the total number of tickets and all the tasks which are in the ready
+queue, you have to distribute the ticket number range to these tasks.
+> The allotment of the number of tickets should be such that the task contributing
+more to the utilization factor of the processor gets less number of tickets.
+> All tasks will be periodic tasks.
+> All tasks will have a capacity (execution time) greater than zero.
+> It is a pre-emptive scheduler.
+> It is a unicore processor.
 
 
 
