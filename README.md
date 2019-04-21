@@ -79,7 +79,7 @@ T5 - (3,8,2,8)
 
 3. **Assumptions made**:
 
-1. Preemptions allowed.
+> Preemptions allowed.
 
 
 
