@@ -38,7 +38,6 @@ list of these variables in this [link](http://beru.univ-brest.fr/~singhoff/chedd
 
 ![Example 2](https://github.com/richidubey/Lottery-Scheduling-of-Real-Time-Task/blob/master/Ex2.PNG?raw=true)
 
-![Image description](link-to-image)
 
 
 
