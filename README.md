@@ -32,6 +32,13 @@ value.
 You can access various variables for writing the user-defined schedulers. You can get a
 list of these variables in this [link](http://beru.univ-brest.fr/~singhoff/cheddar/ug/ug_v3/cheddar-r3.html#Ref6.5).
 
+**Examples**:
+
+![Example 1](https://raw.githubusercontent.com/richidubey/Lottery-Scheduling-of-Real-Time-Task/master/Ex1.PNG)
+
+![Example 2](https://github.com/richidubey/Lottery-Scheduling-of-Real-Time-Task/blob/master/Ex2.PNG?raw=true)
+
+![Image description](link-to-image)
 
 
 
